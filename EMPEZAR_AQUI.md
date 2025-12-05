@@ -161,21 +161,3 @@ He analizado los códigos de MATLAB que compartiste:
 4. **Documentado** - Cada función explicada
 5. **Para reporte** - Genera visualizaciones automáticas
 6. **Sin landmarks** - Cumple con lo que pidió la profesora
-
-## 📞 Siguiente Paso
-
-Voy a crear ahora TODO el código del Avance V completo.
-
-¿Estás listo para que continúe creando los módulos de Python?
-
-Necesito saber:
-1. ¿Tienen ya las imágenes organizadas? (5 fotos por persona)
-2. ¿Cuántas personas tienen en el dataset?
-3. ¿Alguna consideración especial que deba tener en cuenta?
-
-Mientras tanto, puedes:
-- Crear carpetas por persona en `images/` (ej. `images/persona1/`, `images/persona2/`)
-- Revisar el README.md que creé
-- Preparar el entorno virtual
-
-**Estoy listo para crear todo el código del Avance V cuando me lo indiques! 🚀**

@@ -11,8 +11,8 @@ Implementa 3 métodos de detección de ojos sin landmarks:
 import cv2
 import numpy as np
 from typing import List, Tuple, Optional
-from ..avance_v.deteccion_bordes import DetectorBordes
-from ..avance_v.morfologia import OperadoresMorfologicos
+from .deteccion_bordes import DetectorBordes
+from .morfologia import OperadoresMorfologicos
 
 
 class SegmentadorOjos:

@@ -11,7 +11,7 @@ import cv2
 import numpy as np
 from typing import List, Tuple, Optional
 from ..avance_ii.filtros import FiltrosImagen
-from ..avance_v.deteccion_bordes import DetectorBordes
+from .deteccion_bordes import DetectorBordes
 
 
 class SegmentadorNariz:
